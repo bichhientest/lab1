@@ -1,0 +1,13 @@
+.row-1{
+    text-align: center;
+    padding: 5px;
+    display: flex;
+    
+}
+.panel-body{
+    margin: 40px;
+}
+footer{
+    height: 100px;
+    background-color:#d32121;
+}
